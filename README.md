@@ -1,10 +1,10 @@
-# MK Rae Advisory
+# EMSELF
 
-Personal advisory and engineering portfolio for **MK Rae Advisory Pty Ltd** — focused on systems architecture, backend engineering, legacy modernization, and operational web tooling.
+Portfolio for **Emself Pty Ltd** — focused on systems architecture, backend engineering, legacy modernization, and operational web tooling.
 
 ## Overview
 
-A lightweight Python web application serving the MK Rae Advisory site, highlighting core engineering capabilities and recent enterprise implementations.
+Starting out as a lightweight Python web application serving as a visiting card, highlighting core engineering capabilities and recent enterprise implementations.
 
 ### Project Structure
 
